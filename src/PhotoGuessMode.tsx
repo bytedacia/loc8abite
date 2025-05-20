@@ -3,6 +3,7 @@ import './PhotoGuessMode.css';
 import PhotoDisplay from './PhotoDisplay';
 import MapSection from './MapSection';
 import ResultModal from './ResultModal';
+import { haversineDistance } from './haversine';
 
 interface PhotoData {
   image: string;
@@ -17,7 +18,23 @@ function getRandomIndex(length: number) {
   return Math.floor(Math.random() * length);
 }
 
-const ERROR_MARGIN = 5; // degrees
+// Score calculation: max 1000, linearly decreasing with distance (0 at 20000km)
+function calculateScore(distanceKm: number): number {
+  const maxScore = 1000;
+  const minScore = 0;
+  const maxDistance = 20000; // km (half the earth)
+  const score = Math.max(minScore, Math.round(maxScore * (1 - distanceKm / maxDistance)));
+  return score;
+}
+
+function getFeedbackPhrase(distance: number): string {
+  if (distance < 0.1) return 'Incredible! Spot on!';
+  if (distance < 1) return 'Amazing! Super close!';
+  if (distance < 10) return 'Very close!';
+  if (distance < 100) return 'Not bad!';
+  if (distance < 1000) return 'Pretty far!';
+  return 'Way off! Try again!';
+}
 
 const PhotoGuessMode: React.FC = () => {
   const [photoData, setPhotoData] = useState<PhotoData[]>([]);
@@ -41,22 +58,14 @@ const PhotoGuessMode: React.FC = () => {
     setGuess({ lat, lng });
   };
 
-  const isCorrectGuess = (guess: LatLng, answer: PhotoData) => {
-    return (
-      Math.abs(guess.lat - answer.lat) <= ERROR_MARGIN &&
-      Math.abs(guess.lng - answer.lng) <= ERROR_MARGIN
-    );
-  };
-
   const handleSubmit = () => {
     if (!guess || !currentPhoto) return;
-    if (isCorrectGuess(guess, currentPhoto)) {
-      setResult(`Correct! You found ${currentPhoto.place}.`);
-    } else {
-      setResult(
-        `Your guess is not close enough. The correct location was ${currentPhoto.place}.`
-      );
-    }
+    const distance = haversineDistance(guess.lat, guess.lng, currentPhoto.lat, currentPhoto.lng);
+    const score = calculateScore(distance);
+    const phrase = getFeedbackPhrase(distance);
+    setResult(
+      `Your guess was ${distance.toFixed(2)} km away.\n${phrase}\nScore: ${score}`
+    );
     setShowResult(true);
   };
 

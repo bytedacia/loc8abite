@@ -45,6 +45,3 @@ This document provides a step-by-step guide to implement the Photo Guess Mode in
 - [ ] Test edge cases (no marker, double submission, etc.).
 - [ ] Fix any bugs and polish the user experience.
 
----
-
-**Note:** This checklist assumes you are building on the current Loc8abite codebase and UI. Adjust steps as needed for your specific design and workflow.
