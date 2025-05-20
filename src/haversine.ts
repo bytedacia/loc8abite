@@ -14,3 +14,13 @@ export function haversineDistance(lat1: number, lon1: number, lat2: number, lon2
 function degToRad(deg: number): number {
   return deg * (Math.PI / 180);
 }
+
+// Score: 100 for 0km, 1 for 1000km or more, linear in between
+export function calculateScore(distanceKm: number): number {
+  const maxScore = 100;
+  const minScore = 1;
+  const maxDistance = 1000; // km
+  if (distanceKm >= maxDistance) return minScore;
+  const score = Math.round(maxScore - ((distanceKm / maxDistance) * (maxScore - minScore)));
+  return Math.max(minScore, score);
+}

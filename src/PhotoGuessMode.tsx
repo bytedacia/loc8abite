@@ -3,7 +3,7 @@ import './PhotoGuessMode.css';
 import PhotoDisplay from './PhotoDisplay';
 import MapSection from './MapSection';
 import ResultModal from './ResultModal';
-import { haversineDistance } from './haversine';
+import { haversineDistance, calculateScore } from './haversine';
 
 interface PhotoData {
   image: string;
@@ -18,21 +18,13 @@ function getRandomIndex(length: number) {
   return Math.floor(Math.random() * length);
 }
 
-// Score calculation: max 1000, linearly decreasing with distance (0 at 20000km)
-function calculateScore(distanceKm: number): number {
-  const maxScore = 1000;
-  const minScore = 0;
-  const maxDistance = 20000; // km (half the earth)
-  const score = Math.max(minScore, Math.round(maxScore * (1 - distanceKm / maxDistance)));
-  return score;
-}
-
+// Score calculation: max 100, min 1, linearly decreasing with distance (0 at 20000km)
 function getFeedbackPhrase(distance: number): string {
   if (distance < 0.1) return 'Incredible! Spot on!';
-  if (distance < 1) return 'Amazing! Super close!';
-  if (distance < 10) return 'Very close!';
-  if (distance < 100) return 'Not bad!';
-  if (distance < 1000) return 'Pretty far!';
+  if (distance < 10) return 'Amazing! Super close!';
+  if (distance < 100) return 'Very close!';
+  if (distance < 250) return 'Not bad!';
+  if (distance < 500) return 'Pretty far!';
   return 'Way off! Try again!';
 }
 
@@ -42,6 +34,7 @@ const PhotoGuessMode: React.FC = () => {
   const [guess, setGuess] = useState<LatLng | null>(null);
   const [result, setResult] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
+  const [score, setScore] = React.useState<number | null>(null);
 
   useEffect(() => {
     fetch('/src/data.json')
@@ -61,10 +54,11 @@ const PhotoGuessMode: React.FC = () => {
   const handleSubmit = () => {
     if (!guess || !currentPhoto) return;
     const distance = haversineDistance(guess.lat, guess.lng, currentPhoto.lat, currentPhoto.lng);
-    const score = calculateScore(distance);
+    const scoreValue = calculateScore(distance);
+    setScore(scoreValue);
     const phrase = getFeedbackPhrase(distance);
     setResult(
-      `Your guess was ${distance.toFixed(2)} km away.\n${phrase}\nScore: ${score}`
+      `Your guess was ${distance.toFixed(2)} km away.\n${phrase}\nScore: ${scoreValue}/100`
     );
     setShowResult(true);
   };
@@ -73,6 +67,7 @@ const PhotoGuessMode: React.FC = () => {
     setGuess(null);
     setResult(null);
     setShowResult(false);
+    setScore(null);
     if (photoData.length > 0) {
       setCurrentPhotoIdx(getRandomIndex(photoData.length));
     }
@@ -88,7 +83,7 @@ const PhotoGuessMode: React.FC = () => {
       <button onClick={handleSubmit} disabled={!guess} className="submit-btn">
         Submit Guess
       </button>
-      <ResultModal result={result} show={showResult} onNext={handleNext} />
+      <ResultModal result={result} show={showResult} onNext={handleNext} score={score} />
     </div>
   );
 };
