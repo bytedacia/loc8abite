@@ -1,0 +1,62 @@
+[
+  {
+    "image": "/torre.jpg",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "place": "Eiffel Tower, Paris"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "place": "Statue of Liberty, New York"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 35.6586,
+    "lng": 139.7454,
+    "place": "Tokyo Tower, Tokyo"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 51.5007,
+    "lng": -0.1246,
+    "place": "Big Ben, London"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "place": "Taj Mahal, Agra"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": -22.9519,
+    "lng": -43.2105,
+    "place": "Christ the Redeemer, Rio de Janeiro"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "place": "Colosseum, Rome"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "place": "Petra, Jordan"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "place": "Burj Khalifa, Dubai"
+  },
+  {
+    "image": "/torre.jpg",
+    "lat": 43.7229,
+    "lng": 10.3966,
+    "place": "Leaning Tower of Pisa, Pisa"
+  }
+]
