@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "./PhotoGuessMode.css";
 import PhotoDisplay from "./PhotoDisplay";
 import MapSection from "./MapSection";
 import ResultModal from "./ResultModal";
 import { haversineDistance, calculateScore } from "./haversine";
+import confetti from "canvas-confetti";
 
 interface PhotoData {
   image: string;
@@ -36,6 +37,8 @@ const PhotoGuessMode: React.FC = () => {
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = React.useState<number | null>(null);
   const [started, setStarted] = useState(false);
+  const [flashCelebration, setFlashCelebration] = useState(false);
+  const [revealCorrect, setRevealCorrect] = useState(false);
 
   useEffect(() => {
     fetch("/src/data.json")
@@ -44,6 +47,12 @@ const PhotoGuessMode: React.FC = () => {
         setPhotoData(data);
         // setCurrentPhotoIdx(getRandomIndex(data.length));
       });
+  }, []);
+
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    audioRef.current = new Audio("/audio/celebrate.mp3");
   }, []);
 
   const startRound = () => {
@@ -76,6 +85,20 @@ const PhotoGuessMode: React.FC = () => {
       )} km away.\n${phrase}\nScore: ${scoreValue}/100`
     );
     setShowResult(true);
+    if (scoreValue >= 90) {
+      confetti({
+        particleCount: 150,
+        spread: 100,
+        origin: { y: 0.6 },
+      });
+
+      if (audioRef.current) {
+        audioRef.current.currentTime = 0;
+        audioRef.current.play();
+      }
+
+      setFlashCelebration(true); // Triggers CSS flash
+    }
   };
 
   const handleNext = () => {
@@ -83,16 +106,18 @@ const PhotoGuessMode: React.FC = () => {
     setResult(null);
     setShowResult(false);
     setScore(null);
-    setStarted(false);
+    setRevealCorrect(false);
+    // setStarted(false);
     if (photoData.length > 0) {
       setCurrentPhotoIdx(getRandomIndex(photoData.length));
     }
+    setFlashCelebration(false);
   };
 
   if (!currentPhoto) return <div>Loading...</div>;
 
   return (
-    <div className="photo-guess-mode">
+    <div className={`photo-guess-mode ${flashCelebration ? "flash-bg" : ""}`}>
       <h2>Photo Guess Mode</h2>
 
       {!started ? (
@@ -102,7 +127,15 @@ const PhotoGuessMode: React.FC = () => {
       ) : (
         <>
           <PhotoDisplay url={currentPhoto.image} name={currentPhoto.place} />
-          <MapSection guess={guess} onMapClick={handleMapClick} />
+          <MapSection
+            guess={guess}
+            correct={
+              revealCorrect
+                ? { lat: currentPhoto.lat, lng: currentPhoto.lng }
+                : null
+            }
+            onMapClick={handleMapClick}
+          />
           <button
             onClick={handleSubmit}
             disabled={!guess}
@@ -110,6 +143,15 @@ const PhotoGuessMode: React.FC = () => {
           >
             Submit Guess
           </button>
+          {showResult && !revealCorrect && (
+            <button
+              onClick={() => setRevealCorrect(true)}
+              className="correct-btn"
+            >
+              Correct Location
+            </button>
+          )}
+
           <ResultModal
             result={result}
             show={showResult}

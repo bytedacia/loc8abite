@@ -46,6 +46,18 @@
   cursor: pointer;
   margin-bottom: 1rem;
 }
+
+.correct-btn {
+  background: #2dff5a;
+  color: #fff;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
 .submit-btn:disabled {
   background: #b3d1ff;
   cursor: not-allowed;
@@ -57,4 +69,21 @@
   margin-top: 1rem;
   text-align: center;
   box-shadow: 0 1px 8px rgba(0,0,0,0.08);
+}
+@keyframes flash {
+  0% {
+    background-color: #fff;
+  }
+
+  50% {
+    background-color: #c8f7c5;
+  }
+
+  100% {
+    background-color: #fff;
+  }
+}
+
+.flash-bg {
+  animation: flash 0.8s ease-in-out;
 }
