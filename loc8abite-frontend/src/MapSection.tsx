@@ -8,6 +8,8 @@ import {
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
+// type LatLng = { lat: number; lng: number };
+
 type LatLng = { lat: number; lng: number };
 
 interface MapSectionProps {
@@ -28,7 +30,6 @@ const ResizeFixer = () => {
 
 const defaultCenter = { lat: 48.8584, lng: 2.2945 }; // Eiffel Tower
 
-// Fix default marker icon for Leaflet in React
 const markerIcon = new L.Icon({
   iconUrl: "blue.png",
   iconSize: [25, 41],
@@ -56,11 +57,6 @@ const ClickHandler: React.FC<{
   return null;
 };
 
-const worldBounds = L.latLngBounds(
-  L.latLng(-85, -180), // Southwest corner
-  L.latLng(85, 180) // Northeast corner
-);
-
 const MapSection: React.FC<MapSectionProps> = ({
   guess,
   correct,
@@ -69,12 +65,24 @@ const MapSection: React.FC<MapSectionProps> = ({
   return (
     <div className="map-section">
       <MapContainer
-        center={guess || defaultCenter}
+        center={guess || correct || defaultCenter}
         zoom={2}
-        maxBounds={worldBounds}
-        maxBoundsViscosity={1.0}
+        maxZoom={18}
+        minZoom={2}
         scrollWheelZoom={true}
-        className="leaflet-container"
+        zoomControl={true}
+        worldCopyJump={false}
+        maxBounds={[
+          [-85, -180], // Southwest
+          [85, 180], // Northeast
+        ]}
+        maxBoundsViscosity={1.0}
+        style={{
+          width: "100%",
+          height: "300px",
+          borderRadius: "8px",
+          marginBottom: "0.5rem",
+        }}
       >
         <ResizeFixer />
         <TileLayer
@@ -83,14 +91,14 @@ const MapSection: React.FC<MapSectionProps> = ({
         />
         <ClickHandler onMapClick={onMapClick} />
         {guess && <Marker position={guess} icon={markerIcon} />}
-        {/* show correct location */}
         {correct && <Marker position={correct} icon={correctMarkerIcon} />}
       </MapContainer>
-      {guess ? (
+
+      {guess && (
         <div className="guess-coords">
           Marker at: {guess.lat.toFixed(4)}, {guess.lng.toFixed(4)}
         </div>
-      ) : null}
+      )}
     </div>
   );
 };

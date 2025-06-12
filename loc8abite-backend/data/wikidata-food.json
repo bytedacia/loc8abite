@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "morbier",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morbier%20%28fromage%29%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Roquefort cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikicheese%20-%20Roquefort%20-%2020150417%20-%20002.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "goulash",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2009-09-gulasch-p%C3%B6rk%C3%B6lt-paprikas-3.jpg",
+    "country": "Kingdom of Hungary",
+    "type": "food"
+  },
+  {
+    "name": "Comté cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Comte%20AOP.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Crottin de Chavignol",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crottin%2002.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "abondance",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abondance%20%28fromage%29%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Ossau-Iraty",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fromages%20Ossau-Iraty%20003.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "tome des Bauges",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tome%20des%20Bauges.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Reblochon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Reblochon%2011.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Brie de Melun",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikicheese%20-%20Brie%20de%20Melun%20-%2020150515%20-%20015.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Saint-Nectaire",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Nectaire.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Pouligny-saint-pierre",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pouligny-saint-pierre%20%28fromage%29%2003.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Sainte-Maure de Touraine",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte-Maure%20de%20touraine%2004.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Valençay",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valen%C3%A7ay%2004.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Vacherin Mont-d'Or",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vacherin%20du%20haut%20Doubs.jpg",
+    "country": "Switzerland",
+    "type": "food"
+  },
+  {
+    "name": "Vacherin Mont-d'Or",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vacherin%20du%20haut%20Doubs.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "laguiole cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laguiole%20%28fromage%29%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Brillat-Savarin cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brillat-savarin.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "bollito misto",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Il%20bollito%20misto.jpg",
+    "country": "Italy",
+    "type": "food"
+  },
+  {
+    "name": "Maroilles",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maroilles%20%28cheese%29.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Brie de Meaux",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brie%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "munster",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Munster%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "bleu du Vercors-Sassenage",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bleu%20du%20Vercors%20-%20coup%C3%A9%20-%20juil%202019.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Banon cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Banon%2002.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "bleu des Causses",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WikiCheese%20-%20Bleu%20des%20Causses%20-%2020150619%20-%20001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Pélardon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A9lardon%2002.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "chaource cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaource%20%28fromage%29%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "charolais",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fromage%20charolais.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "chevrotin",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chevrotin%20des%20Aravis%20%28avril%202021%29%20-%202.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "camembert de Normandie",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camembert%20de%20Normandie%20%28AOP%29%2010.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Tomme des Pyrénées",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tommes%20des%20Pyr%C3%A9n%C3%A9es.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "bleu de Gex",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bleu%20de%20Gex.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Époisses",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89poisses%20Gaugry%2003.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Pont-l'Évêque",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pont-l%27%C3%89v%C3%AAque%2003.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Langres cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Langres%20fromage%20AOP%20coupe.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "neufchâtel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C5%93urs%20de%20Neufch%C3%A2tel%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Saint Agur Blue",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SaintAgurCheese.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "fourme de Montbrison",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikicheese%20-%20Fourme%20de%20Montbrison%20-%2020151024%20-%20012.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "fourme d'Ambert",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fourme%20d%27Ambert%2004.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "salers",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salers%20%28fromage%29%2001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Selles-sur-Cher cheese",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Selles-sur-cher%201.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "rigotte de Condrieu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WikiCheese%20-%20Rigotte%20de%20Condrieu%20-%2020150619%20-%20001.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Soumaintrain",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soumaintrain.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Chanakhi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanakhi.jpg",
+    "country": "Georgia",
+    "type": "food"
+  },
+  {
+    "name": "Fico bianco del Cilento",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fig%20of%20Cilento%20%28Italy%29.jpg",
+    "country": "Italy",
+    "type": "food"
+  },
+  {
+    "name": "Abbaye de Tamié",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fromage%20abbaye%20de%20Tami%C3%A9.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Bûche du Poitou",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buche%20du%20Poitou.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "carcamusa",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carcamusas%EF%BC%8CToledo%E5%82%B3%E7%B5%B1%E8%8F%9C%EF%BC%8C%E8%BE%A3%E9%86%AC%E7%87%89%E7%89%9B%E8%82%89%20%2810077288014%29.jpg",
+    "country": "Spain",
+    "type": "food"
+  },
+  {
+    "name": "carcamusa",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carcamusas%EF%BC%8CToledo%E5%82%B3%E7%B5%B1%E8%8F%9C%EF%BC%8C%E8%BE%A3%E9%86%AC%E7%87%89%E7%89%9B%E8%82%89%20%2810077288014%29.jpg",
+    "country": "Toledo Province",
+    "type": "food"
+  },
+  {
+    "name": "Bucheron",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edge%20of%20boucheron.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Espineta amb caragolins",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Espineta%20amb%20caragolins.jpg",
+    "country": "Spain",
+    "type": "food"
+  },
+  {
+    "name": "Kolot",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pideli%20k%C3%B6fte%20-%20Istanbul.jpg",
+    "country": "Turkey",
+    "type": "food"
+  },
+  {
+    "name": "Patîle",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%C3%AEle.jpg",
+    "country": "Kurdistan",
+    "type": "food"
+  },
+  {
+    "name": "Gabacai",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%94%85%E5%B7%B4%E8%8F%9C.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "Baddare",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baddare.jpg",
+    "country": "Sweden",
+    "type": "food"
+  },
+  {
+    "name": "chabichou du Poitou",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chabichou%20du%20Poitou%2004.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Snirkel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overflodighedshorn.jpg",
+    "country": "Denmark",
+    "type": "food"
+  },
+  {
+    "name": "Rouyot",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fr%20B%20rouillo%20rouyot.jpg",
+    "country": "Wallonia",
+    "type": "food"
+  },
+  {
+    "name": "Rouyot",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rouyot%20dins%20ass%C3%AEte.jpg",
+    "country": "Wallonia",
+    "type": "food"
+  },
+  {
+    "name": "tomme du Nevet",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomme%20du%20N%C3%A9vet%20nature%20%283%29.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Market jelbana",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Market%20Jelbana.jpg",
+    "country": "Tunisia",
+    "type": "food"
+  },
+  {
+    "name": "Cortadillo norteño",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cortadillo%20Santiago%20NL.%20Consejo%20para%20la%20Cultura%20y%20las%20Artes%20de%20Nuevo%20Le%C3%B3n.jpg",
+    "country": "Mexico",
+    "type": "food"
+  },
+  {
+    "name": "Q115941817",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coquetes%20de%20cacau.jpg",
+    "country": "Spain",
+    "type": "food"
+  },
+  {
+    "name": "Q122811070",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vacherin%20du%20haut%20Doubs.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Obe ata",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/African%20nigerian%20fried%20rice%20eith%20stew%20...%20plantain%20and%20fresh%20salad.png",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Sombe (stew)",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sombe%20sauce%20with%20meat%20and%20ovacado%2001.jpg",
+    "country": "Uganda",
+    "type": "food"
+  },
+  {
+    "name": "Q131560883",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anneau%20du%20Gors.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Gris du Périgord",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gris%20du%20P%C3%A9rigord%2C%20cheese.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "tempeh",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tempeh%20tempe.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "tofu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20SilkyTofu%20%28Kinugoshi%20Tofu%29.JPG",
+    "country": "China",
+    "type": "food"
+  },
+  {
+    "name": "brem",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brem%20Madiun.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "rempeyek",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peyek%20Kacang.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "rojak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mamak%20rojak.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Q862595",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KUE%20MANGKUK%20TELO.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Cendol",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cendol%20Durian.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Cendol",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Es%20Cendol%20Susu.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Cendol",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20street-side%20Es%20Cendol%204.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "soto ayam",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soto%20ayam.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "fried rice",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fried%20rice%20in%20home.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "fried rice",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fried%20rice%20with%20chicken%20and%20egg.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "fried rice",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koh%20Mak%2C%20Thailand%2C%20Fried%20rice%20with%20seafood%2C%20Thai%20fried%20rice.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "fried rice",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malapascua%2C%20Vegetable%20fried%20rice%2C%20Philippines.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "fried rice",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fried%20rice%20by%20Adonis%20Chen%20in%20Keelung%2C%20Taiwan.jpg",
+    "country": "People's Republic of China",
+    "type": "food"
+  },
+  {
+    "name": "ampyang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/5.%20Ampyang%201.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Kilishi%22.JPG",
+    "country": "Niger",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Kilishi%22.JPG",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camel%20Kilishi%20Maiduguri.jpg",
+    "country": "Niger",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camel%20Kilishi%20Maiduguri.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kilishi.JPG",
+    "country": "Niger",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kilishi.JPG",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kilishi%20heaven.jpg",
+    "country": "Niger",
+    "type": "food"
+  },
+  {
+    "name": "kilishi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kilishi%20heaven.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Harira",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harira%20oranaise.png",
+    "country": "Morocco",
+    "type": "food"
+  },
+  {
+    "name": "ketupat",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ketupat2.jpg",
+    "country": "Malaysia",
+    "type": "food"
+  },
+  {
+    "name": "Kugel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kugel.jpg",
+    "country": "Central Europe",
+    "type": "food"
+  },
+  {
+    "name": "rouille",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauce%20rouille%20%28d%C3%A9cembre%202023%29.jpg",
+    "country": "France",
+    "type": "food"
+  },
+  {
+    "name": "Jin deui",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Onde-onde%20isi%20kacang.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "sale pisang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rimpi%20Pisang%20002.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "sale pisang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sale%20pisang.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Skerpikjøt",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skerpikj%C3%B8t%20%282%29.jpg",
+    "country": "Faroe Islands",
+    "type": "food"
+  },
+  {
+    "name": "lemper",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lemper.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "ayam Taliwang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayam%20bakar%20khas%20Taliwang%202.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "bsisa",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bsissa%20de%20Jerba%2C%20Tunisie%202013%20%28closeup%29.jpg",
+    "country": "North Africa",
+    "type": "food"
+  },
+  {
+    "name": "amba",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amba.jpg",
+    "country": "India",
+    "type": "food"
+  },
+  {
+    "name": "Melomakarono",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melomakarona.jpg",
+    "country": "Greece",
+    "type": "food"
+  },
+  {
+    "name": "tumpeng",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Tumpeng.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Bechkito",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%A8%D8%B4%D9%83%D9%88%D8%B7%D9%88.jpg",
+    "country": "Morocco",
+    "type": "food"
+  },
+  {
+    "name": "Feqqas",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fekkass%20%D8%A7%D9%84%D9%81%D9%82%D8%A7%D8%B5.jpg",
+    "country": "Morocco",
+    "type": "food"
+  },
+  {
+    "name": "otak-otak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otak-otak%20Ikan%20Kukus.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "otak-otak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otak-otak%20Jakarta.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi uduk",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20uduk%20netherlands.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kucing",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20kucing%20langgi.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20dan%20Ungkep%20Ayam.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20Banjar%20001.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20Daun%20Pisang.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20Daun%20Woka.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20Ibu%20Sulastri.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20khas%20Manado.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20kuning%20mewah.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kuning",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kuning%20Telur.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi campur",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Campur.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Sellu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sfouf.jpg",
+    "country": "Morocco",
+    "type": "food"
+  },
+  {
+    "name": "neera",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neera%20manufactured%20from%20Kollam%20Kaippuzha%20Plant%2C%20Feb%202016.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "muhammara",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanoreen%20muhammara.jpg",
+    "country": "Syria",
+    "type": "food"
+  },
+  {
+    "name": "es doger",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Es%20Doger%201.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "lumpia Semarang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Loenpia%20Semarang.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nagasari",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagasari.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Oncom",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keripik%20oncom.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Oncom",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ketan%20Bakar-Oncomso%C3%9Fe.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Oncom",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oncom%20tekstur.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "botok",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bubur%20Lolos%20Botok%20Roti.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "lawar",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lawar%20babi%20guling.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "pempek",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pempek%20lenjer%20dan%20krispi.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "pempek",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pempek%20campur.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "rice lengko",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sega%20Lengko.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "lupis",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kue%20lupis.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "lupis",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lupis.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "karedok",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karedok.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi kebuli",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Kebuli%20Jakarta.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Sangsang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saksang%202.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "bakwan",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakwan%20Sayur.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "bakwan",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cabbage%20fritters%20gorengan.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "mie aceh",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikimedia%20Indonesia%27s%2015th%20birthday%20celebrations%2C%20Jakarta%3B%20September%202023%20%2805%29.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "mie celor",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mie%20Celor.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "combro",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Combro%202.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "geplak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gula%20kelapa%20Malioboro%20Yogyakarta.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Papeda",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hidangan%20papeda.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Papeda",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papeda%2C%20Kuah%20Kuning%2C%20Ikan%20Tude%20Bakar%202.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "amala",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amala%20and%20Abula.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Tempoyak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YosriBelacanTempoyakDekat.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Arsik",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arsik%20Ikan%20Mas%202.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "asam pedas",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ikan%20Asam%20Padeh%20Padang.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "pepes",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pepes%20ikan%20emas%20%28pais%20lauk%20mas%29%20Sunda.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "betutu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bebek%20tutu.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Bika Ambon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kue%20bika%20ambon.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Q4920553",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Ulam%20Betawi.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Q4920553",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20ulam%20Betawi%20ora.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Buntil",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buntil.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Serabi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Serabi-01.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "corn fritter",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barranquilla%20bu%C3%B1uelos%20de%20ma%C3%ADz.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Dalma",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dalama%20Odia%20Cuisine.jpg",
+    "country": "India",
+    "type": "food"
+  },
+  {
+    "name": "rengginang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rengginang.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "kolak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JackfruitKolak.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "pecel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Pecel%20Surabaya.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "pecel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pecel%20Hariadhi.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Onde-onde",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klepon%20Khas%20Tulungagung.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Onde-onde",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalalapun%20001.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Onde-onde",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Onde-onde.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Mathri",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mathri.JPG",
+    "country": "India",
+    "type": "food"
+  },
+  {
+    "name": "Nasi bakar",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Bakar%20Ayam.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "nasi bogana",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasibogana.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Nasi liwet",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasi%20Liwet%20Solo.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "ogi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akamu%20%28Pap%29%20%28Ogi%29%20%28cropped%29.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "ogi",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akara%20na%20Akamu%20%28Fried%20Bean%20cakes%20and%20Pap%29.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Pallubasa",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallubasa.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "uih sepit",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kue%20semprong.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Q7367965",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lepat%20Ubi%20Kayu%20%281%29.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Roti buaya",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roti%20Buaya.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Roti buaya",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roti%20Buaya.JPG",
+    "country": "Jakarta",
+    "type": "food"
+  },
+  {
+    "name": "kue leker",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leker%20Hariadhi.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "rujak cingur",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rujak%20Cingur.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Sate padang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sate%20padang%20dan%20keripik.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Sate padang",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sate%20Padang2.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Soto Madura",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soto%20Madura%20Daging.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Sfouf",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sfoufs%20%288280943024%29%20%28cropped%29.jpg",
+    "country": "Lebanon",
+    "type": "food"
+  },
+  {
+    "name": "Siomay",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siomay%20Bandung.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tekwan",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tekwan.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tekwan",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tekwan%20Kombinasi%20Lobster.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tinutuan porridge",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bubur%20Khas%20Manado%20%28Tinutuan%29.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tinutuan porridge",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinutuan%20bubur%20Manado.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tinutuan porridge",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinutuan%20Kuah%20Sambiki.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Tvøst og spik",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvost%20og%20spik.jpg",
+    "country": "Faroe Islands",
+    "type": "food"
+  },
+  {
+    "name": "Q9079488",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Srabi%20Solo.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Q9079488",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Srabi%20Solo%20yang%20dijajakan.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Ekuru",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ekuru.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Ekuru",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ekuru%20and%20ata%20din%20din.jpg",
+    "country": "Nigeria",
+    "type": "food"
+  },
+  {
+    "name": "Kahk",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%83%D8%B9%D9%83%20%D8%A7%D9%84%D8%B9%D9%8A%D8%AF.jpg",
+    "country": "Egypt",
+    "type": "food"
+  },
+  {
+    "name": "Q10954885",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodol%20Betawi.JPG",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Bingka",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bikang%20Gula%20Habang%20001.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  },
+  {
+    "name": "Bingka",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bingka%20kantang%20halus.jpg",
+    "country": "Indonesia",
+    "type": "food"
+  }
+]

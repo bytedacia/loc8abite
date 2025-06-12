@@ -1,0 +1,168 @@
+.photo-guess-mode {
+    padding: 1rem;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.flash-bg {
+    animation: flash 0.5s ease-in-out;
+}
+
+@keyframes flash {
+    0% {
+        background-color: #fff8dc;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
+
+.card-options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.card-option {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 80%;
+    max-width: 400px;
+    background-color: #f9f9f9;
+    transition: transform 0.2s;
+}
+
+.card-option:hover {
+    transform: scale(1.03);
+    background-color: #eee;
+}
+
+.photo-display {
+    margin-bottom: 1rem;
+}
+
+.photo-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.photo-caption {
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.submit-btn,
+.correct-btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-btn {
+    background-color: #007bff;
+    color: white;
+}
+
+.correct-btn {
+    background-color: #28a745;
+    color: white;
+}
+
+.skip-btn {
+    background-color: #ffc107;
+    color: black;
+}
+
+/* .result-modal {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    background-color: white;
+    border: 2px solid #ccc;
+    padding: 2rem;
+    z-index: 1000;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+} */
+
+.modal-content h2 {
+    margin-bottom: 1rem;
+}
+
+.photo-display-container {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.photo-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.food-image {
+    max-width: 90%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    margin-bottom: 0.5rem;
+}
+
+.food-name {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.modal-content {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    max-width: 90%;
+    text-align: center;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.modal-content h2 {
+    margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+}
+
+.modal-content p {
+    font-size: 1.2rem;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Tablet (≥600px) */
+@media (min-width: 600px) {
+    .map-section {
+        min-width: 600px;
+    }
+}
+
+/* Laptop (≥1024px) */
+@media (min-width: 1024px) {
+    .map-section {
+        min-width: 900px;
+    } }

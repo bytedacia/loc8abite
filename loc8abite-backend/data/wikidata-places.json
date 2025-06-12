@@ -1,0 +1,1052 @@
+[
+  {
+    "name": "Osteria del Gambero Rosso",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osteria%20del%20gambero%20rosso%2011%20sala%20meeting.JPG",
+    "lat": 43.899941,
+    "lng": 10.652301,
+    "type": "restaurant"
+  },
+  {
+    "name": "Prospect of Whitby",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prospect%20of%20Whitby%20%28street%20view%29.JPG",
+    "lat": 51.5071,
+    "lng": -0.051152777,
+    "type": "restaurant"
+  },
+  {
+    "name": "Taverna del Gufo",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foggia%2C%20Taverna%20del%20Gufo.JPG",
+    "lat": 41.4637371,
+    "lng": 15.5419669,
+    "type": "restaurant"
+  },
+  {
+    "name": "Taverna di Rotola",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taverna%20di%20Rotola%20-%20Ceppaloni%20%28BN%29.JPG",
+    "lat": 41.1005,
+    "lng": 15.2825,
+    "type": "restaurant"
+  },
+  {
+    "name": "Taverna ducale",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taverna%20ducale%20Cerreto%20Sannita%201.jpg",
+    "lat": 41.28413889,
+    "lng": 14.558075,
+    "type": "restaurant"
+  },
+  {
+    "name": "Tavern on the Green",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tavern%20on%20the%20Green%20cloudy%20jeh.JPG",
+    "lat": 40.7723,
+    "lng": -73.9778,
+    "type": "restaurant"
+  },
+  {
+    "name": "Bob Bob Ricard",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Bob%20Ricard%2C%20Soho%2C%20W1.jpg",
+    "lat": 51.512222,
+    "lng": -0.137222,
+    "type": "restaurant"
+  },
+  {
+    "name": "The Varsity",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TheVarsity%20Atlanta-GA.jpg",
+    "lat": 33.7716,
+    "lng": -84.3893,
+    "type": "restaurant"
+  },
+  {
+    "name": "Au Café",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Au%20caf%C3%A9%201.jpg",
+    "lat": 48.13666667,
+    "lng": 17.10944444,
+    "type": "restaurant"
+  },
+  {
+    "name": "Au Café",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Au%20Caf%C3%A9%20Bratislava.jpg",
+    "lat": 48.13666667,
+    "lng": 17.10944444,
+    "type": "restaurant"
+  },
+  {
+    "name": "Au Café",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carte%20postale%20Pozsony%20Bratislava%20Palugyay.jpg",
+    "lat": 48.13666667,
+    "lng": 17.10944444,
+    "type": "restaurant"
+  },
+  {
+    "name": "Kraantje Lek",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kraantje%20Lek.jpg",
+    "lat": 52.38291,
+    "lng": 4.59156,
+    "type": "restaurant"
+  },
+  {
+    "name": "Kraantje Lek",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kraantje%20Lek.jpg",
+    "lat": 52.38287,
+    "lng": 4.59169,
+    "type": "restaurant"
+  },
+  {
+    "name": "Ballymaloe House",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Midleton%20-%20Ballymaloe%20House%20-%2020180813133530.jpg",
+    "lat": 51.86518,
+    "lng": -8.07672,
+    "type": "restaurant"
+  },
+  {
+    "name": "Ballymaloe House",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Midleton%20-%20Ballymaloe%20House%20-%2020180813134359.jpg",
+    "lat": 51.86518,
+    "lng": -8.07672,
+    "type": "restaurant"
+  },
+  {
+    "name": "De Generaal",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baarn%20De%20Generaal%203.JPG",
+    "lat": 52.20689,
+    "lng": 5.28343,
+    "type": "restaurant"
+  },
+  {
+    "name": "De Generaal",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baarn%20De%20Generaal%203.JPG",
+    "lat": 52.207012,
+    "lng": 5.28349,
+    "type": "restaurant"
+  },
+  {
+    "name": "&samhoud places",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samhoud%20Moshik%20-%20Februari%202018.jpg",
+    "lat": 52.37662222,
+    "lng": 4.90538056,
+    "type": "restaurant"
+  },
+  {
+    "name": "'t Misverstant",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%27s-Hertogenbosch%20Rijksmonument%2021848%20Snellestraat%2028.JPG",
+    "lat": 51.687325,
+    "lng": 5.30456667,
+    "type": "restaurant"
+  },
+  {
+    "name": "Esplanada in Łódź",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Esplanada%20Lodz.jpg",
+    "lat": 51.7652,
+    "lng": 19.4575,
+    "type": "restaurant"
+  },
+  {
+    "name": "Oaxen Skärgårdskrog",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oaxen%20Krog%20%26%20Slip%2C%202014%2005.JPG",
+    "lat": 59.32222222,
+    "lng": 18.10166667,
+    "type": "restaurant"
+  },
+  {
+    "name": "21st Amendment Brewery",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/21st%20Amendment%20Brewery%27s%20San%20Francisco%20Pub.jpg",
+    "lat": 37.711498,
+    "lng": -122.176549,
+    "type": "restaurant"
+  },
+  {
+    "name": "21st Amendment Brewery",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Leandro%20brewery%20and%20taproom.jpg",
+    "lat": 37.711498,
+    "lng": -122.176549,
+    "type": "restaurant"
+  },
+  {
+    "name": "32 King Street, Bristol",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/32%20King%20Street%20Bristol.jpg",
+    "lat": 51.4519,
+    "lng": -2.5945,
+    "type": "restaurant"
+  },
+  {
+    "name": "5 North St",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%205%20North%20Street%2C%20Winchcombe%20%28geograph%204414933%29.jpg",
+    "lat": 51.9549,
+    "lng": -1.965,
+    "type": "restaurant"
+  },
+  {
+    "name": "Ad Hoc",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ad%20Hoc%20in%20Yountville%20California.jpg",
+    "lat": 38.39921,
+    "lng": -122.35857,
+    "type": "restaurant"
+  },
+  {
+    "name": "Q4700586",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akelarre%20gastronomico%20.jpg",
+    "lat": 43.307776,
+    "lng": -2.043173,
+    "type": "restaurant"
+  },
+  {
+    "name": "Alain Ducasse at The Dorchester",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stunning%20Table%20Lumi%C3%A8re%20at%20Alain%20Ducasse%20at%20The%20Dorchester.jpg",
+    "lat": 51.507222,
+    "lng": -0.1525,
+    "type": "restaurant"
+  },
+  {
+    "name": "Albany Pump Station",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albany%20Pump%20Station%20Panorama.jpg",
+    "lat": 42.654167,
+    "lng": -73.748056,
+    "type": "restaurant"
+  },
+  {
+    "name": "Alkimia",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alkimia.jpg",
+    "lat": 41.3827,
+    "lng": 2.1633,
+    "type": "restaurant"
+  },
+  {
+    "name": "Amarone",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amarone%20%28Rotterdam%29.jpg",
+    "lat": 51.92256667,
+    "lng": 4.48370556,
+    "type": "restaurant"
+  },
+  {
+    "name": "Amber",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amber%20Restaurant%202.JPG",
+    "lat": 22.2812,
+    "lng": 114.158,
+    "type": "restaurant"
+  },
+  {
+    "name": "Amigo",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amigo%202010.jpg",
+    "lat": 22.2719,
+    "lng": 114.185,
+    "type": "restaurant"
+  },
+  {
+    "name": "An Stad",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Stad%2C%2030%20North%20Frederick%20Street%2C%20Dublin.JPG",
+    "lat": 53.355184276,
+    "lng": -6.264587001,
+    "type": "restaurant"
+  },
+  {
+    "name": "Anchor Bar",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AnchorBar.jpg",
+    "lat": 42.902388888,
+    "lng": -78.868555555,
+    "type": "restaurant"
+  },
+  {
+    "name": "Ancient Priors",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Priors%2C%20High%20Street%2C%20Crawley.JPG",
+    "lat": 51.1139,
+    "lng": -0.1903,
+    "type": "restaurant"
+  },
+  {
+    "name": "Aniar",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aniar%20Restaurant.JPG",
+    "lat": 53.27109722,
+    "lng": -9.05706944,
+    "type": "restaurant"
+  },
+  {
+    "name": "Apoteket Hjorten",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gr%C3%B8nland.10.JPG",
+    "lat": 59.913311,
+    "lng": 10.760078,
+    "type": "restaurant"
+  },
+  {
+    "name": "Ariston Cafe",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AristonCafe%20LitchfieldIL.jpg",
+    "lat": 39.177222,
+    "lng": -89.668056,
+    "type": "restaurant"
+  },
+  {
+    "name": "Arnaud's",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ArnaudsBienvilleNOLA2009.JPG",
+    "lat": 29.9557,
+    "lng": -90.0688,
+    "type": "restaurant"
+  },
+  {
+    "name": "Arthur Bryant's",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur-bryants.jpg",
+    "lat": 39.091383,
+    "lng": -94.556129,
+    "type": "restaurant"
+  },
+  {
+    "name": "Arzak",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20del%20restaurante%20Arzak.jpg",
+    "lat": 43.3211,
+    "lng": -1.94917,
+    "type": "restaurant"
+  },
+  {
+    "name": "Asador Etxebarri",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Across%20the%20square%20to%20Asador%20Etxebarri%20%2817910009633%29.jpg",
+    "lat": 43.115888888,
+    "lng": -2.598416666,
+    "type": "restaurant"
+  },
+  {
+    "name": "Assembly House",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Assembly%20House%20Norwich1.jpg",
+    "lat": 52.6268,
+    "lng": 1.2907,
+    "type": "restaurant"
+  },
+  {
+    "name": "Athenæum",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Athenaeum-noon-TM.jpg",
+    "lat": 39.773333,
+    "lng": -86.150278,
+    "type": "restaurant"
+  },
+  {
+    "name": "Atlantic Grill",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20Grill%201341%203d%20Av%20jeh.jpg",
+    "lat": 40.7727,
+    "lng": -73.9584,
+    "type": "restaurant"
+  },
+  {
+    "name": "Au Crocodile",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%2010%20rue%20de%20l%E2%80%99Outre%20f%C3%A9vrier%202016.jpg",
+    "lat": 48.5837,
+    "lng": 7.74748,
+    "type": "restaurant"
+  },
+  {
+    "name": "Aztec Theatre",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aztec%20On%20The%20River%20-%20Building.jpg",
+    "lat": 29.424444,
+    "lng": -98.490833,
+    "type": "restaurant"
+  },
+  {
+    "name": "Aztec Theatre",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aztec%20On%20The%20River%20-%20Building.jpg",
+    "lat": 29.424667,
+    "lng": -98.49105599,
+    "type": "restaurant"
+  },
+  {
+    "name": "Bagatelle",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bagatelle%20-%202009-06-21%20at%2014-09-31.jpg",
+    "lat": 59.914875,
+    "lng": 10.71708333,
+    "type": "restaurant"
+  },
+  {
+    "name": "Vatican City",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Basilique%20Saint-Pierre%20-%20Rome%20%281%29.JPG",
+    "lat": 41.904,
+    "lng": 12.453,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Eiffel Tower",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg",
+    "lat": 48.858296,
+    "lng": 2.294479,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Yellowstone National Park",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Canyon%20of%20the%20Yellowstone%20River.jpg",
+    "lat": 44.6,
+    "lng": -110.5,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Mount Vesuvius",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Il%20cratere%20del%20Vulcano%20-%20panoramio.jpg",
+    "lat": 40.821388888,
+    "lng": 14.425555555,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "avenue des Champs-Élysées",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20des%20Champs-%C3%89lys%C3%A9es%2C%20Paris%203%20October%202010.jpg",
+    "lat": 48.86967,
+    "lng": 2.30786,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Place Bellecour",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20PlaceBellecour.JPG",
+    "lat": 45.7575,
+    "lng": 4.832222222,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Berlin Central Station",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Hauptbahnhof%20Ostseite%20HDR.jpg",
+    "lat": 52.525083333,
+    "lng": 13.369388888,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Matterhorn",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cervino%20cloud.jpg",
+    "lat": 45.976388888,
+    "lng": 7.658611111,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Basilica of Notre-Dame de Fourvière",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/France-003038%20-%20Basilica%20of%20Notre-Dame%20de%20Fourvi%C3%A8re%20%2815939822990%29.jpg",
+    "lat": 45.762291666,
+    "lng": 4.822555555,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Sistine Chapel",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sistina-interno.jpg",
+    "lat": 41.902956,
+    "lng": 12.454433,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Notre-Dame de Paris",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Notre-Dame%20de%20Paris%202013-07-24.jpg",
+    "lat": 48.853,
+    "lng": 2.3498,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Neuschwanstein%20%2845%20mm%29.jpg",
+    "lat": 47.557488542,
+    "lng": 10.749441807,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Cologne Cathedral",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6lner%20Dom%20von%20Osten.jpg",
+    "lat": 50.941388888,
+    "lng": 6.958333333,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "15 July Martyrs Bridge",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20asv2020-02%20img58%2015July%20Martyrs%20Bridge.jpg",
+    "lat": 41.04532,
+    "lng": 29.03456,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Berlin wall",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Wall%20Potsdamer%20Platz%20November%201975%20looking%20east%20crop.jpg",
+    "lat": 52.504444444,
+    "lng": 13.441111111,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Space Needle",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%2C%20October%206%2C%202023%20-%2060.jpg",
+    "lat": 47.6204,
+    "lng": -122.3491,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Vistula Lagoon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vistula%20Lagoon.jpg",
+    "lat": 54.476388888,
+    "lng": 19.767777777,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Petra",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Treasury%2C%20Petra%2C%20Jordan5.jpg",
+    "lat": 30.328888888,
+    "lng": 35.440277777,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Mecca",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Makkah%20Montage.jpg",
+    "lat": 21.4225,
+    "lng": 39.826111111,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Chichen Itza",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%203.jpg",
+    "lat": 20.683055555,
+    "lng": -88.568611111,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Westminster Abbey",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westminster-Abbey.JPG",
+    "lat": 51.4994,
+    "lng": -0.127367,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Kilimanjaro%2012.2006.jpg",
+    "lat": -3.066666666,
+    "lng": 37.359166666,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Taj Mahal",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taj%20Mahal%2C%20Agra%2C%20India%20edit3.jpg",
+    "lat": 27.175,
+    "lng": 78.041944444,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Empire State Building",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28aerial%20view%29.jpg",
+    "lat": 40.748333333,
+    "lng": -73.985555555,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Statue of Liberty",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%207.jpg",
+    "lat": 40.689209166,
+    "lng": -74.044425277,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Colosseum",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colosseo%202020.jpg",
+    "lat": 41.890277777,
+    "lng": 12.492222222,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Parthenon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Parthenon%20in%20Athens.jpg",
+    "lat": 37.971527,
+    "lng": 23.726601,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Orvieto Cathedral",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto%202014.JPG",
+    "lat": 42.717011111,
+    "lng": 12.113272222,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "The Pentagon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Pentagon%2C%20Headquarters%20of%20the%20US%20Department%20of%20Defense%20%28cropped%29.jpg",
+    "lat": 38.870833333,
+    "lng": -77.055,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "One World Trade Center",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20%2833224081040%29.jpg",
+    "lat": 40.713,
+    "lng": -74.0135,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Times Square",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20york%20times%20square-terabass.jpg",
+    "lat": 40.7575,
+    "lng": -73.985833333,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Rockefeller Center",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GE%20Building%20by%20David%20Shankbone.JPG",
+    "lat": 40.758611111,
+    "lng": -73.979194444,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Grand Central Terminal",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Image-Grand%20central%20Station%20Outside%20Night%202.jpg",
+    "lat": 40.752777777,
+    "lng": -73.977222222,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Grand Central Terminal",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NYC%20GC.jpg",
+    "lat": 40.752777777,
+    "lng": -73.977222222,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Great Wall of China",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Wall%20of%20China%20at%20Jinshanling-edit.jpg",
+    "lat": 40.416666666,
+    "lng": 116.083333333,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Hagia Sophia",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hagia%20Sophia%20Mars%202013.jpg",
+    "lat": 41.008333333,
+    "lng": 28.98,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Saint Peter's Basilica",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Pietro%20in%20Vaticano%20September%202015-1a.jpg",
+    "lat": 41.902222222,
+    "lng": 12.453416666,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Oreshek Fortress",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20Oreshek.jpg",
+    "lat": 59.953829,
+    "lng": 31.038866,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Busan",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Busan%20montage.png",
+    "lat": 35.18,
+    "lng": 129.075,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Mount Etna",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Mount%20Etna%20from%20Reggio%20Calabria%20-%20Italy%20-%2010%20Feb.%202017%20-%20%281%29.jpg",
+    "lat": 37.750834514,
+    "lng": 14.993220288,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Milan Cathedral",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20110724%20Milan%20Cathedral%205260.jpg",
+    "lat": 45.463968,
+    "lng": 9.190578,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Mont Saint-Michel De Coulon",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/00%200572%20Mont%20Saint%20Michel%20abbey.jpg",
+    "lat": 48.63611111,
+    "lng": -1.51138889,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "British Library",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/British%20Library%20%2B%20St%20Pancras%207527-31hug.jpg",
+    "lat": 51.529444,
+    "lng": -0.126944,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Brest Fortress",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BrestFortress7.JPG",
+    "lat": 52.083333333,
+    "lng": 23.652777777,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Swiss Alps",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muttbach.jpg",
+    "lat": 46.5,
+    "lng": 8.5,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Kremlin in Izmailovo",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kremlin%20in%20Izmaylovo.JPG",
+    "lat": 55.79472222,
+    "lng": 37.75027778,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Brühl's Terrace",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20Elbterrasse.jpg",
+    "lat": 51.053427,
+    "lng": 13.740206,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Sacré-Cœur",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20sacre%20coeur.jpg",
+    "lat": 48.88665,
+    "lng": 2.34295,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Willis Tower",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20Sears%20Tower.jpg",
+    "lat": 41.878611,
+    "lng": -87.635833,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Willis Tower",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willis%20Tower%20From%20Lake.jpg",
+    "lat": 41.878611,
+    "lng": -87.635833,
+    "type": "tourist attraction"
+  },
+  {
+    "name": "Strawberry Field",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Straberry%20field%20sign.jpg",
+    "lat": 53.380277777,
+    "lng": -2.883888888,
+    "type": "landmark"
+  },
+  {
+    "name": "Gamengrund",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gamengrund%20Reliefkarte.png",
+    "lat": 52.7275,
+    "lng": 13.900277777,
+    "type": "landmark"
+  },
+  {
+    "name": "Sizewell nuclear power stations",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20power%20station%20at%20Sizewell%20-%20geograph.org.uk%20-%20210830%20retouched.jpg",
+    "lat": 52.215,
+    "lng": 1.61972,
+    "type": "landmark"
+  },
+  {
+    "name": "Funkerberg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mast-17%20Sendemast%20Koenigs%20Wusterhausen.jpg",
+    "lat": 52.305,
+    "lng": 13.6168,
+    "type": "landmark"
+  },
+  {
+    "name": "Funkerberg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Selbststrahlender%20Sendemast%201.JPG",
+    "lat": 52.305,
+    "lng": 13.6168,
+    "type": "landmark"
+  },
+  {
+    "name": "Funkerberg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sendemast%20Koenigswusterhausen.jpg",
+    "lat": 52.305,
+    "lng": 13.6168,
+    "type": "landmark"
+  },
+  {
+    "name": "Kleine Schanze",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bern%2C%20Kl.%20Schanze%20%282%29.jpg",
+    "lat": 46.94549,
+    "lng": 7.44037,
+    "type": "landmark"
+  },
+  {
+    "name": "Marzilibad",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marzilibad%20Bern.jpg",
+    "lat": 46.9422,
+    "lng": 7.44417,
+    "type": "landmark"
+  },
+  {
+    "name": "Haukeliseter",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hardangervidda-%20Tag%201.jpg",
+    "lat": 59.82355163,
+    "lng": 7.1957016,
+    "type": "landmark"
+  },
+  {
+    "name": "Heysham nuclear power stations",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heysham%20Power%20Station%2C%20from%20dockside.jpg",
+    "lat": 54.0289,
+    "lng": -2.91611,
+    "type": "landmark"
+  },
+  {
+    "name": "Hattenheimer Mannberg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hattenheimer%20Mannberg%20Mannwerk%20Heinrich%20Langwerth%20von%20Simmern.jpg",
+    "lat": 50.017736,
+    "lng": 8.070552,
+    "type": "landmark"
+  },
+  {
+    "name": "Hattenheimer Pfaffenberg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hattenheimer%20Pfaffenberg%20Tor%20Tempel%20Englischer%20Garten%20Sch%C3%B6nborn.JPG",
+    "lat": 50.01275,
+    "lng": 8.05575,
+    "type": "landmark"
+  },
+  {
+    "name": "Inner City",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Altstadt%20DSC06159.jpg",
+    "lat": 46.94869,
+    "lng": 7.44779,
+    "type": "landmark"
+  },
+  {
+    "name": "Northern Tuli Game Reserve",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lions%20Tuli%20Block%20Botswana.jpg",
+    "lat": -22.16069878,
+    "lng": 29.12681581,
+    "type": "landmark"
+  },
+  {
+    "name": "World Trade Center site",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wtc-photo.jpg",
+    "lat": 40.711666666,
+    "lng": -74.013333333,
+    "type": "landmark"
+  },
+  {
+    "name": "Välijoki",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Niskan%20silta%202015-06.JPG",
+    "lat": 63.338376633,
+    "lng": 23.557235242,
+    "type": "landmark"
+  },
+  {
+    "name": "Välijoki",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Niskan%20silta%202015-06.JPG",
+    "lat": 63.375987,
+    "lng": 23.50683,
+    "type": "landmark"
+  },
+  {
+    "name": "Mococa",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Igreja%20do%20Ros%C3%A1rio%20%28Mococa-SP%29.jpg",
+    "lat": -21.467777777,
+    "lng": -47.004722222,
+    "type": "landmark"
+  },
+  {
+    "name": "Blåmannsisvatnet",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bl%C3%A5mannsisvatnet-0857.jpg",
+    "lat": 67.22673,
+    "lng": 16.17363,
+    "type": "landmark"
+  },
+  {
+    "name": "Vindelfjällen nature reserve",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vindelfj%C3%A4llen.jpg",
+    "lat": 65.908066578,
+    "lng": 15.881370683,
+    "type": "landmark"
+  },
+  {
+    "name": "Namnå",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Namn%C3%A5%20stasjon.jpg",
+    "lat": 60.495833,
+    "lng": 12.08,
+    "type": "landmark"
+  },
+  {
+    "name": "Länggasse-Felsenau",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Berner%20Stadtteil%20II.png",
+    "lat": 46.9688,
+    "lng": 7.42184,
+    "type": "landmark"
+  },
+  {
+    "name": "Mattequartier",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Berner%20Quartiere%20Schwarzes%20Quartier.png",
+    "lat": 46.94724,
+    "lng": 7.45576,
+    "type": "landmark"
+  },
+  {
+    "name": "Trinity College",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trincollchapel.jpg",
+    "lat": 41.7474,
+    "lng": -72.69001,
+    "type": "landmark"
+  },
+  {
+    "name": "Oberbottigen",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oberbottigen%20Februar%202013.jpg",
+    "lat": 46.93585,
+    "lng": 7.34961,
+    "type": "landmark"
+  },
+  {
+    "name": "Buriticupu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20buriticupu.jpg",
+    "lat": -4.345833333,
+    "lng": -46.400833333,
+    "type": "landmark"
+  },
+  {
+    "name": "Buriticupu",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20buriticupu.jpg",
+    "lat": -4.342777777,
+    "lng": -46.401666666,
+    "type": "landmark"
+  },
+  {
+    "name": "Liverpool Maritime Mercantile City",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20dock%20at%20night.jpg",
+    "lat": 53.406667,
+    "lng": -2.994444,
+    "type": "landmark"
+  },
+  {
+    "name": "Passo Fedaia",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedaia0.jpg",
+    "lat": 46.45666667,
+    "lng": 11.87972222,
+    "type": "landmark"
+  },
+  {
+    "name": "Gátterjávri",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katterjaure%20%28G%C3%A1tterj%C3%A1vri%29%2001.jpg",
+    "lat": 68.39127,
+    "lng": 18.09073,
+    "type": "landmark"
+  },
+  {
+    "name": "Megaland",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Megaland.jpg",
+    "lat": 50.881667,
+    "lng": 6.024167,
+    "type": "landmark"
+  },
+  {
+    "name": "Tempelhofer Feld",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tempelhofer%20Feld%20May%202021.jpg",
+    "lat": 52.4733,
+    "lng": 13.4014,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20crossing%20%C3%81rt%C3%A1nd-Bor%C8%99.jpg",
+    "lat": 46.11666667,
+    "lng": 20.26666667,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hungary-Romania%20Boundary.jpg",
+    "lat": 46.11666667,
+    "lng": 20.26666667,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20crossing%20%C3%81rt%C3%A1nd-Bor%C8%99.jpg",
+    "lat": 46.123606481,
+    "lng": 20.251388888,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hungary-Romania%20Boundary.jpg",
+    "lat": 46.123606481,
+    "lng": 20.251388888,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20crossing%20%C3%81rt%C3%A1nd-Bor%C8%99.jpg",
+    "lat": 47.954166666,
+    "lng": 22.897217592,
+    "type": "landmark"
+  },
+  {
+    "name": "Hungary–Romania border",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hungary-Romania%20Boundary.jpg",
+    "lat": 47.954166666,
+    "lng": 22.897217592,
+    "type": "landmark"
+  },
+  {
+    "name": "Wülflingen",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C3%BClflingen.JPG",
+    "lat": 47.51,
+    "lng": 8.683,
+    "type": "landmark"
+  },
+  {
+    "name": "Camp Academia",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camp-Academia.jpg",
+    "lat": -62.645,
+    "lng": -60.1717,
+    "type": "landmark"
+  },
+  {
+    "name": "Stolkertsijver",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%BCckeStolkertsijver.jpeg",
+    "lat": 5.756666666,
+    "lng": -54.747222222,
+    "type": "landmark"
+  },
+  {
+    "name": "Braga Street",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buildings%20at%20Braga%20Street.jpg",
+    "lat": -6.91805556,
+    "lng": 107.60955556,
+    "type": "landmark"
+  },
+  {
+    "name": "Kållered",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A5llereds%20kyrka.jpg",
+    "lat": 57.608333333,
+    "lng": 12.05,
+    "type": "landmark"
+  },
+  {
+    "name": "Swahili coast",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimoni%20fishermen.JPG",
+    "lat": -9,
+    "lng": 39,
+    "type": "landmark"
+  },
+  {
+    "name": "Heliopolis",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eliopoli%2C%20edifici%20esotici%20in%20sharia%20ibrahim%20laqqany%2C%2005.JPG",
+    "lat": 30.133333333,
+    "lng": 31.3,
+    "type": "landmark"
+  },
+  {
+    "name": "Zorah",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosaic%20floor%20at%20Zorah.jpg",
+    "lat": 31.775086111,
+    "lng": 34.98535,
+    "type": "landmark"
+  },
+  {
+    "name": "Butte Chaumont",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ButteChaumont.JPG",
+    "lat": 48.48051,
+    "lng": -0.02816,
+    "type": "landmark"
+  },
+  {
+    "name": "Butte Chaumont",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ButteChaumont.JPG",
+    "lat": 48.48138889,
+    "lng": -0.0275,
+    "type": "landmark"
+  },
+  {
+    "name": "Pier Head",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Pier%20Head.jpg",
+    "lat": 53.40473,
+    "lng": -2.99668,
+    "type": "landmark"
+  },
+  {
+    "name": "Hamnnes",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20012.jpg",
+    "lat": 69.78833333,
+    "lng": 20.56694444,
+    "type": "landmark"
+  }
+]

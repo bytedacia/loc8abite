@@ -10,16 +10,20 @@ interface PhotoData {
   image: string;
   lat: number;
   lng: number;
-  place: string;
+  name: string;
+  type: string;
 }
 
 export type LatLng = { lat: number; lng: number };
+
+interface PhotoGuessModeProps {
+  onBack?: () => void;
+}
 
 function getRandomIndex(length: number) {
   return Math.floor(Math.random() * length);
 }
 
-// Score calculation: max 100, min 1, linearly decreasing with distance (0 at 20000km)
 function getFeedbackPhrase(distance: number): string {
   if (distance < 0.1) return "Incredible! Spot on!";
   if (distance < 10) return "Amazing! Super close!";
@@ -29,24 +33,22 @@ function getFeedbackPhrase(distance: number): string {
   return "Way off! Try again!";
 }
 
-const PhotoGuessMode: React.FC = () => {
+const PhotoGuessMode: React.FC<PhotoGuessModeProps> = ({ onBack }) => {
   const [photoData, setPhotoData] = useState<PhotoData[]>([]);
   const [currentPhotoIdx, setCurrentPhotoIdx] = useState(0);
   const [guess, setGuess] = useState<LatLng | null>(null);
   const [result, setResult] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
-  const [score, setScore] = React.useState<number | null>(null);
+  const [score, setScore] = useState<number | null>(null);
   const [started, setStarted] = useState(false);
   const [flashCelebration, setFlashCelebration] = useState(false);
   const [revealCorrect, setRevealCorrect] = useState(false);
 
   useEffect(() => {
-    fetch("/src/data.json")
+    fetch("http://localhost:4000/api/wikidata/places")
       .then((res) => res.json())
-      .then((data) => {
-        setPhotoData(data);
-        // setCurrentPhotoIdx(getRandomIndex(data.length));
-      });
+      .then((data) => setPhotoData(data))
+      .catch((err) => console.error("Failed to fetch photo data:", err));
   }, []);
 
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -85,19 +87,14 @@ const PhotoGuessMode: React.FC = () => {
       )} km away.\n${phrase}\nScore: ${scoreValue}/100`
     );
     setShowResult(true);
-    if (scoreValue >= 90) {
-      confetti({
-        particleCount: 150,
-        spread: 100,
-        origin: { y: 0.6 },
-      });
 
+    if (scoreValue >= 90) {
+      confetti({ particleCount: 150, spread: 100, origin: { y: 0.6 } });
       if (audioRef.current) {
         audioRef.current.currentTime = 0;
         audioRef.current.play();
       }
-
-      setFlashCelebration(true); // Triggers CSS flash
+      setFlashCelebration(true);
     }
   };
 
@@ -107,7 +104,6 @@ const PhotoGuessMode: React.FC = () => {
     setShowResult(false);
     setScore(null);
     setRevealCorrect(false);
-    // setStarted(false);
     if (photoData.length > 0) {
       setCurrentPhotoIdx(getRandomIndex(photoData.length));
     }
@@ -118,15 +114,22 @@ const PhotoGuessMode: React.FC = () => {
 
   return (
     <div className={`photo-guess-mode ${flashCelebration ? "flash-bg" : ""}`}>
-      <h2>Photo Guess Mode</h2>
-
       {!started ? (
-        <button onClick={startRound} className="submit-btn">
-          Start Photo Guess
-        </button>
+        <div className="card-options">
+          <div className="card-option start-card" onClick={startRound}>
+            <h3>▶️ Start Photo Guess</h3>
+            <p>Try to guess where the photo was taken!</p>
+          </div>
+          {onBack && (
+            <div className="card-option back-card" onClick={onBack}>
+              <h3>🔙 Back to Menu</h3>
+              <p>Return to the mode selection screen.</p>
+            </div>
+          )}
+        </div>
       ) : (
         <>
-          <PhotoDisplay url={currentPhoto.image} name={currentPhoto.place} />
+          <PhotoDisplay url={currentPhoto.image} name={currentPhoto.name} />
           <MapSection
             guess={guess}
             correct={
@@ -151,11 +154,18 @@ const PhotoGuessMode: React.FC = () => {
               Correct Location
             </button>
           )}
+          <button
+            onClick={handleNext}
+            className="correct-btn skip-btn"
+            style={{ marginTop: "0.5rem" }}
+          >
+            ⏭️ Skip / Next Photo
+          </button>
 
           <ResultModal
             result={result}
             show={showResult}
-            onNext={handleNext}
+            // onNext={handleNext}
             score={score}
           />
         </>
