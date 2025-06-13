@@ -102,6 +102,7 @@ const WorldMap: React.FC<MapSectionFoodProps> = ({
 
         {geoData && (
           <GeoJSON
+            key={selectedCountry || "default"} // force re-render on selection
             ref={(ref) => {
               if (ref) geoJsonRef.current = ref;
             }}
