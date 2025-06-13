@@ -12,7 +12,7 @@ const ResultModal: React.FC<ResultModalProps> = ({ result, show, score }) => {
   return (
     <div className="result-modal">
       <div className="modal-content">
-        <h2>{score === 100 ? "🎉 Correct!" : "❌ Oops!"}</h2>
+        <h2>{score === 100 ? "🎉 Correct!" : ""}</h2>
         <p>{result}</p>
       </div>
     </div>

@@ -6,11 +6,13 @@ import "leaflet/dist/leaflet.css";
 interface MapSectionFoodProps {
   onCountrySelect: (countryName: string) => void;
   selectedCountry: string | null;
+  correctCountry: string | null;
 }
 
 const WorldMap: React.FC<MapSectionFoodProps> = ({
   onCountrySelect,
   selectedCountry,
+  correctCountry,
 }) => {
   const [geoData, setGeoData] = useState<any>(null);
   const geoJsonRef = useRef<L.GeoJSON | null>(null);
@@ -86,10 +88,11 @@ const WorldMap: React.FC<MapSectionFoodProps> = ({
           Selected: {selectedCountry}
         </p>
       )}
+
       <MapContainer
         center={[20, 0]}
         zoom={2}
-        maxZoom={8}
+        maxZoom={18}
         minZoom={2}
         scrollWheelZoom
         style={{ height: "400px", width: "100%" }}
